@@ -7,7 +7,7 @@
 }
 body{
     min-height: 100vh;
-    background-color:rgb(140, 70, 170);
+    background-color:rgb(30, 170, 130);
 }
 .content {
     max-width: 650px;
@@ -75,22 +75,4 @@ header ul li a.active
     background: rgb(255, 255, 255);
     color: #101820FF;
     transition: 0.5s;
-}
-.media-icons{
- display: flex;
- justify-content: left;
- align-items: left;
-}
-.media-icons a:not(:last-child){
-    margin-right: 80px;
-}
-.media-icons a{
-    position: relative;
-    color: white;
-    font-size: 25px;
-    transition: 0.3s;
-    transition-property: transform;
-}
-.media-icons a:hover{
-    transform: scale(1.5)
 }

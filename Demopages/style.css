@@ -16,7 +16,7 @@ body{
 .model {
     height: 600px;
     position: absolute ;
-    bottom: 50px;
+    bottom: 20px;
     left: 85%;
     transform: translateX(-73%);
 }

@@ -61,7 +61,7 @@ header ul li a.active
     background-position: center;
     background-size: cover;
     position: relative;
-    left: 12%;
+    left: 15%;
     bottom: -10%;
     transform: translateY(9%);
     transition: transform(00.5s);

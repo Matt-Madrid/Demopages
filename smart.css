@@ -49,6 +49,7 @@ header ul li a.active
     transition: 0.5s;
 }
 .card{
+    float: left;
     flex-basis: content;
     width: 280px;
     height: 230px;
@@ -71,28 +72,27 @@ header ul li a.active
     transform: translateY(10px);
 }
 .card1{
-    background-image: url(biotech.jpg);
+    background-image: url(wearables.jpg);
 }
 .card2{
-    background-image: url(learning.jpg);
+    background-image: url(Smarthome.jpg);
 }
 .card3{
-    background-image: url(smartiot.jpg);
-    
+    background-image: url(Crash.jpg);
 }
 .card h5{
     color: white;
-    text-shadow: 0 0 5px black;
+    text-shadow: 0 0 10px black;
 }
 h5{
-    text-align: center;
+    text-align: left;
     color: rgb(0, 0, 0);
     text-emphasis: 10px;
 }
 h2{
     color: #00a86b;
     text-align: center;
-    font-size: 80px;
+    font-size: 64px;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 4px;
@@ -106,5 +106,5 @@ h2{
     margin-top: -30px;
 }
 .content {
-    margin: 200px 0px;
+    margin: 200px 20px;
 }

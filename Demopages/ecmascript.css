@@ -55,7 +55,7 @@ header ul li{
 header ul li a{
     text-decoration: none;
     padding: 6px 15px;
-    color: white;
+    color: #00a86b;
     border-radius: 20px;
 }
 header ul li a:hover ,
